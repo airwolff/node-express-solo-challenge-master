@@ -1,0 +1,28 @@
+{
+  "name": "node-express-solo-challenge-master",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airwolff/node-express-solo-challenge-master.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airwolff/node-express-solo-challenge-master/issues"
+  },
+  "homepage": "https://github.com/airwolff/node-express-solo-challenge-master#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
